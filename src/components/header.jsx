@@ -5,7 +5,9 @@ export const Header = (props) => {
     <header id='header'>
       <div className='intro'>
       <div class="zstack">
-        <img src={ReactLogo} bg={{zIndex: 0, position:"absolute", top:0}} />
+        <bg> 
+        <img src={ReactLogo} bg={{zIndex: 0, top:0}} class='cover'/>
+        </bg>
         <div className='overlay'>
           <div className='container'>
           

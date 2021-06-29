@@ -12,23 +12,31 @@ code {
     monospace;
 }
 .cover {
-  height: auto;
-  width: 100%;
-  margin: auto;
+  object-fit: cover;
+  min-height: 150vh;
+  max-width: 100%;
  }
 
  .zstack {
-  height: auto;
-  width: 100%;
+  object-fit: cover;
 	display: grid;
+  width: 100%;
+  min-height: 150vh;
 	align-items: center;
 	justify-items: center;
+ 
 }
 .zstack > * {
-	grid-area: 1/1/1/1;
-  height: auto;
+  object-fit: cover;
   width: 100%;
+  min-height: 150vh;
+	grid-area: 1/1/1/1;
+  background-size: cover;
+
 }
 .h2 {
   color: white;
+}
+.col-md-4 {
+  padding-top: 10%;
 }

@@ -1,4 +1,5 @@
 import ReactLogo from './mocks.jpg';
+import { React, useState, useEffect } from 'react'
 export const About = (props) => {
   return (
     <div id='about'>

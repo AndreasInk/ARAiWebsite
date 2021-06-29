@@ -1,4 +1,4 @@
-import { React, useState, useEffect } from 'react'
+import React from 'react'
 export const Features = (props) => {
   return (
     <div id='features' className='text-center'>

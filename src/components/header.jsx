@@ -1,4 +1,4 @@
-import { React, useState, useEffect } from 'react'
+import React from 'react'
 import ReactLogo from './back.svg';
 export const Header = (props) => {
   return (

@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.cover {
+  width: 100%;
+  margin: auto;
+ }
+
+ .zstack {
+  width: 100%;
+	display: grid;
+	align-items: center;
+	justify-items: center;
+}
+.zstack > * {
+	grid-area: 1/1/1/1;
+  width: 100%;
+}
+.h2 {
+  color: white;
+}

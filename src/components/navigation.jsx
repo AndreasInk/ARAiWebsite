@@ -1,3 +1,4 @@
+import ReactLogo from './logo.svg';
 export const Navigation = (props) => {
   return (
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
@@ -15,9 +16,9 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
           </button>
-          <a className='navbar-brand page-scroll' href='#page-top'>
-            My Landing Page
-          </a>{' '}
+        
+          <img src={ReactLogo} alt="React Logo" className='team-img'/>
+          
         </div>
 
         <div
@@ -37,7 +38,7 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href='#services' className='page-scroll'>
-                Services
+                Uses
               </a>
             </li>
             <li>
@@ -45,11 +46,7 @@ export const Navigation = (props) => {
                 Gallery
               </a>
             </li>
-            <li>
-              <a href='#testimonials' className='page-scroll'>
-                Testimonials
-              </a>
-            </li>
+           
             
           </ul>
         </div>

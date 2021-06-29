@@ -1,57 +1,55 @@
 {
     "Header": {
-
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
-
+  
+        "title": "3D Models From Photos",
+        "paragraph": "Amazing for AR/VR, games, apps, product demos, and more."
+  
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "I'm Andreas Ink, the developer of ARAi.  I'm a university student who believes that everyone should have access to AR tech to create amazing things.  I wanted to get into game development, when I found 3D assets to be hard to obtain, so I made an app that empowers developers to create amazing games and apps, engineers to model their excellent designs, teachers to build attention grabbing material, entrepreneurs to maximize impact and profits, and so much more.",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Effortless",
+            "Innovative",
+            "Simple"
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "Engaging",
+            "Maximizing",
+            "Powerful"
         ]
     },
     "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-gamepad",
+            "name": "VR Games",
+            "text": "Step into immersive worlds with scanned in people, tools, food, cars, and so much more all created effortlessly on an iPhone with ARAi.  "
         },
         {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-cube",
+            "name": "AR/VR Apps",
+            "text": "Enhance your apps with 3D assets, whether it creates a lively effect in your onboarding or is a core user experience, reimagine what you can do with AR in record time."
         },
         {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-cutlery",
+            "name": "AR Restaurant Menu",
+            "text": "When food appeals to someone’s senses they are more likely to purchase that food, an AR menu with 3D food placed directly on the guest’s table does exactly this."
         },
         {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-home",
+            "name": "Real Estate",
+            "text": "Explore homes and commercial areas days before arriving at a showing and have the piece of mind to see every corner in incredible detail. "
         },
         {
             "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Engineering",
+            "text": "Visualize and conceptualize prototypes that you engineered and share what you’ve created with others."
         },
         {
             "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Marketing",
+            "text": "Create beautiful marketing videos, social media posts, commercials, and more with scanned 3D assets in minutes."
         }
-
-
+  
+  
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
@@ -113,24 +111,20 @@
         "youtube": "youtube.com"
     },
     "Features": [{
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-cube",
+            "title": "Convert Photos Into 3D Models",
+            "text": ""
         },
         {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-retweet",
+            "title": "Unlimited Rescans",
+            "text": ""
         },
         {
-            "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        },
-        {
-            "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-wifi",
+            "title": "Accessible Anywhere With An Internet Connection",
+            "text": ""
         }
     ]
-}
+ }
+ 

@@ -12,22 +12,22 @@ code {
     monospace;
 }
 .cover {
+  height: auto;
   width: 100%;
   margin: auto;
-  height: auto;
  }
 
  .zstack {
-  width: 100%;
   height: auto;
+  width: 100%;
 	display: grid;
 	align-items: center;
 	justify-items: center;
 }
 .zstack > * {
 	grid-area: 1/1/1/1;
-  width: 100%;
   height: auto;
+  width: 100%;
 }
 .h2 {
   color: white;

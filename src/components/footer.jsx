@@ -16,12 +16,14 @@ export const Footer = (props) => {
           </p>
         
          
-         
+          <div class="flex hstack">
           <a class="fa fa-twitter" href='https://twitter.com/ARAi_App' rel='nofollow'>
             
             </a>
-           
-
+            <a class="fa fa-apple" href='https://twitter.com/ARAi_App' rel='nofollow'>
+            
+            </a>
+            </div>
         </div>
       </div>
     </div>

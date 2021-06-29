@@ -26,7 +26,14 @@ export const Header = (props) => {
                 >
                   Learn More
                 </a>{' '}
+                <a
+                  href='https://apps.apple.com/us/app/arai-photos-to-3d-model/id1571606646'
+                  className='btn btn-custom btn-lg page-scroll'
+                >
+                  Download
+                </a>{' '}
               </div>
+              
             </div>
           </div>
         </div>

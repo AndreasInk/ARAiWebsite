@@ -14,10 +14,12 @@ code {
 .cover {
   width: 100%;
   margin: auto;
+  height: auto;
  }
 
  .zstack {
   width: 100%;
+  height: auto;
 	display: grid;
 	align-items: center;
 	justify-items: center;
@@ -25,6 +27,7 @@ code {
 .zstack > * {
 	grid-area: 1/1/1/1;
   width: 100%;
+  height: auto;
 }
 .h2 {
   color: white;

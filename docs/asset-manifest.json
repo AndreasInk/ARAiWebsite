@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ARAiWebsite/static/css/main.dbf8ba74.chunk.css",
-    "main.js": "/ARAiWebsite/static/js/main.5b6ac483.chunk.js",
-    "main.js.map": "/ARAiWebsite/static/js/main.5b6ac483.chunk.js.map",
+    "main.css": "/ARAiWebsite/static/css/main.430e489d.chunk.css",
+    "main.js": "/ARAiWebsite/static/js/main.ff15afe6.chunk.js",
+    "main.js.map": "/ARAiWebsite/static/js/main.ff15afe6.chunk.js.map",
     "runtime-main.js": "/ARAiWebsite/static/js/runtime-main.9604a282.js",
     "runtime-main.js.map": "/ARAiWebsite/static/js/runtime-main.9604a282.js.map",
     "static/js/2.a15fc9b0.chunk.js": "/ARAiWebsite/static/js/2.a15fc9b0.chunk.js",
     "static/js/2.a15fc9b0.chunk.js.map": "/ARAiWebsite/static/js/2.a15fc9b0.chunk.js.map",
     "index.html": "/ARAiWebsite/index.html",
-    "static/css/main.dbf8ba74.chunk.css.map": "/ARAiWebsite/static/css/main.dbf8ba74.chunk.css.map",
+    "static/css/main.430e489d.chunk.css.map": "/ARAiWebsite/static/css/main.430e489d.chunk.css.map",
     "static/js/2.a15fc9b0.chunk.js.LICENSE.txt": "/ARAiWebsite/static/js/2.a15fc9b0.chunk.js.LICENSE.txt",
     "static/media/back.6ac9d013.svg": "/ARAiWebsite/static/media/back.6ac9d013.svg",
     "static/media/logo.c784b289.svg": "/ARAiWebsite/static/media/logo.c784b289.svg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.9604a282.js",
     "static/js/2.a15fc9b0.chunk.js",
-    "static/css/main.dbf8ba74.chunk.css",
-    "static/js/main.5b6ac483.chunk.js"
+    "static/css/main.430e489d.chunk.css",
+    "static/js/main.ff15afe6.chunk.js"
   ]
 }

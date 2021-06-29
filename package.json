@@ -6,7 +6,9 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "browserslist": "^2.11.3",
     "chokidar": "^3.5.1",
+    "css-loader": "^1.0.0",
     "emailjs-com": "^2.6.4",
     "particles-bg": "^2.5.5",
     "react": "^17.0.1",
@@ -22,7 +24,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -34,9 +35,9 @@
       "not op_mini all"
     ],
     "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
     ]
   },
   "devDependencies": {
